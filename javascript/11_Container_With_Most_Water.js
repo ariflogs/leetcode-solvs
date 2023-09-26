@@ -11,7 +11,7 @@
 
 // Solution 1 
     // -> Time Complexity: O(n)
-    // -> Space Complexity: O(n)
+    // -> Space Complexity: O(1)
 
 var maxArea = function(height) {
     let maxHeight = 0;
